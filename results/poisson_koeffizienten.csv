@@ -1,0 +1,6 @@
+,coef,IRR,p
+Intercept,-1.0176,0.3615,0.0
+log_einwohner,0.0943,1.0989,0.0
+log_geschaefte,0.5155,1.6744,0.0
+eigentum,-0.0192,0.981,0.0
+alter,0.0325,1.033,0.0
